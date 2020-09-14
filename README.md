@@ -27,7 +27,8 @@ yii2-languages
 * Установка расширения с помощью Composer.
 
 ```
-composer require klisl/yii2-languages 
+Stock - composer require klisl/yii2-languages
+My update widget seo Urls - composer require web-bond/yii2-languages
 ```
 
 
