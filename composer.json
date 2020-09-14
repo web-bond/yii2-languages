@@ -1,5 +1,5 @@
 {
-    "name": "klisl/yii2-languages",
+    "name": "web-bond/yii2-languages",
     "description": "Package",
   "type": "yii2-extension",
   "keywords": [
@@ -12,7 +12,7 @@
         {
             "name": "Sergey Klimenchuk",
             "email": "ksl80@ukr.net",
-			"homepage": "https://github.com/klisl/yii2-languages",
+			"homepage": "https://github.com/web-bond/yii2-languages",
 			"role": "Developer"
         }
     ],
